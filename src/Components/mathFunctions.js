@@ -15,3 +15,5 @@ function diffTwoNumbers(num1, num2) {
     // This will decide the minuend and the subtrahend and based off of a comparison
     // operator and then subtract.
 }
+
+export {addTwoNumbers, divTwoNumbers, multTwoNumbers, diffTwoNumbers}
